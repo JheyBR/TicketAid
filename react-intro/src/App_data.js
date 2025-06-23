@@ -69,6 +69,23 @@
 
   export {defaulListToDo2 }; 
 
+    // Lista original
+  const defaulListToDo3 =[ 
+    {titleToDo: 'Revisar el PH en Enrtrada de Agua y Tanques', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false},
+    {titleToDo: 'Revisar Ph y Cloro en Llaves 1, 2, llenado de botellon y Bolsas', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: true},
+    {titleToDo: 'Hacer retrolavado de Arena, Zeolita y Carbon', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false},
+    {titleToDo: 'Hacer lavado de Microfiltros', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: true},
+    {titleToDo: 'Dos ciclos de ozono en cada jornada', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: true},
+    {titleToDo: 'Hacer los arreglos de botellon', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false},
+    {titleToDo: 'Lavar estibas', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false},
+    {titleToDo: 'Dejar seco el area de Produccion', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false },
+    {titleToDo: 'Vaciar el agua de Saniger en la maquina de Botellon', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: true},
+    {titleToDo: 'Dejar todas las pacas en Bodega', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: true},
+    {titleToDo: 'NO dejar Botellones Vacios', checkToDo:'Agregar, Modificar', stateToDo:'https://cdn-icons-gif.flaticon.com/8722/8722697.gif', completed: false}
+  ] 
+
+  export {defaulListToDo3 }; 
+
   const defaultPQRS =[
     {titlePQRS: 'Tipo de Ticket'},
     {titlePQRS: 'Descripción'},
